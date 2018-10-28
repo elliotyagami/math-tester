@@ -1,0 +1,54 @@
+{
+    "manifest": {
+        "publishingInformation": {
+            "locales": {
+                "en-US": {
+                    "summary": "Math tester tests your basic arithmetic abilities.",
+                    "examplePhrases": [
+                        "Alexa open maths tester.",
+                        "Alexa start maths tester",
+                        "Alexa play maths tester"
+                    ],
+                    "keywords": [
+                        "kids",
+                        "maths",
+                        "quiz",
+                        "school",
+                        "primary",
+                        "school",
+                        "kindergarten",
+                        "maths",
+                        "quiz",
+                        "mental",
+                        "maths",
+                        "maths",
+                        "mental"
+                    ],
+                    "name": "wildlife sounds",
+                    "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/445d/5498e399b59a4101b812249f6caa64c7/APP_ICON?versionId=l5hM1iF2y_YRmz8Kz0OEd_bJneYABiBg&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1540838474&Signature=ildoEWRMGO2aizfEl9bPeVaa%2BnQ%3D",
+                    "description": "Maths tester is a maths quiz game.  You can choose between 5 levels, with 1 being easiest and 5 the hardest.  The quiz includes addition, subtraction, multiplication and division with varying levels of difficulty. The questions are dynamic and every quiz is different. Maths tester is suitable for kids from kindergarten all the way to primary school.",
+                    "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/445d/5498e399b59a4101b812249f6caa64c7/APP_ICON?versionId=l5hM1iF2y_YRmz8Kz0OEd_bJneYABiBg&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1540838474&Signature=ildoEWRMGO2aizfEl9bPeVaa%2BnQ%3D"
+                }
+            },
+            "isAvailableWorldwide": true,
+            "testingInstructions": "None.",
+            "category": "EDUCATION_AND_REFERENCE",
+            "distributionCountries": []
+        },
+        "apis": {
+            "custom": {
+                "endpoint": {
+                    "sourceDir": "lambda"
+                }
+            }
+        },
+        "manifestVersion": "1.0",
+        "privacyAndCompliance": {
+            "allowsPurchases": false,
+            "isExportCompliant": true,
+            "containsAds": false,
+            "isChildDirected": true,
+            "usesPersonalInfo": false
+        }
+    }
+}
